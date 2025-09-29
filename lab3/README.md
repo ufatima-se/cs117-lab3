@@ -36,3 +36,5 @@ These features hide the complex machine-level details and let you think more abo
 | Printing output  | INT 21h                  | print(x)       | Python abstracts I/O with built-in functions |
 | Arithmetic       | ADD AX, BX               | x + y          | Python handles operations with high-level syntax |
 
+# (placeholder change)
+
